@@ -47,7 +47,7 @@ Users can browse the menu, add items to the cart, and proceed to checkout.
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/foodiehub.git
+git clone https://github.com/anujpurbe/foodiehub.git
 ```
 
 Open the project folder and start a local server:
